@@ -1,0 +1,21 @@
+Formacao Academica:
+    Tipo
+    Nome
+    Instituicao
+    Titulo
+    Orientador
+    BolsistaDo
+    PalavraChave (N)
+    Area(N)
+    Subarea(N)
+Pos Doutorado
+    Instituicao
+    BolsistaDo
+    Area(N)
+    Subarea(N)
+Formacao Complementar:
+    Nome
+    CargaHoraria
+    Instituicao
+
+Co
